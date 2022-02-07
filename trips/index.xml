@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Turer on Hugo Future Imperfect Slim</title>
+    <link>https://hugo-future-imperfect-slim.netlify.app/trips/</link>
+    <description>Recent content in Turer on Hugo Future Imperfect Slim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>no</language><atom:link href="https://hugo-future-imperfect-slim.netlify.app/trips/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Australia 2006</title>
+      <link>https://hugo-future-imperfect-slim.netlify.app/trips/2006-01-20_australia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo-future-imperfect-slim.netlify.app/trips/2006-01-20_australia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Galapagos og Machu Piccu 2015</title>
+      <link>https://hugo-future-imperfect-slim.netlify.app/trips/2015-06-09_galapagos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo-future-imperfect-slim.netlify.app/trips/2015-06-09_galapagos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kilimanjaro 2012</title>
+      <link>https://hugo-future-imperfect-slim.netlify.app/trips/2012-09-19_kilimanjaro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo-future-imperfect-slim.netlify.app/trips/2012-09-19_kilimanjaro/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
