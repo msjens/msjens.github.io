@@ -2,89 +2,89 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/en/anim/</loc>
+    <loc>https://msjens.github.io/en/anim/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://hugo-future-imperfect-slim.netlify.app/anim/"
+                href="https://msjens.github.io/anim/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-future-imperfect-slim.netlify.app/en/anim/"
+                href="https://msjens.github.io/en/anim/"
                 />
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/en/categories/</loc>
+    <loc>https://msjens.github.io/en/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://hugo-future-imperfect-slim.netlify.app/categories/"
+                href="https://msjens.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-future-imperfect-slim.netlify.app/en/categories/"
+                href="https://msjens.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/en/tags/css/</loc>
+    <loc>https://msjens.github.io/en/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/en/div/</loc>
+    <loc>https://msjens.github.io/en/div/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/en/tags/html/</loc>
+    <loc>https://msjens.github.io/en/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/en/</loc>
+    <loc>https://msjens.github.io/en/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://hugo-future-imperfect-slim.netlify.app/"
+                href="https://msjens.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-future-imperfect-slim.netlify.app/en/"
+                href="https://msjens.github.io/en/"
                 />
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/en/tags/markdown/</loc>
+    <loc>https://msjens.github.io/en/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/en/div/markdown-syntax/</loc>
+    <loc>https://msjens.github.io/en/div/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/en/categories/syntax/</loc>
+    <loc>https://msjens.github.io/en/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/en/tags/</loc>
+    <loc>https://msjens.github.io/en/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://hugo-future-imperfect-slim.netlify.app/tags/"
+                href="https://msjens.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-future-imperfect-slim.netlify.app/en/tags/"
+                href="https://msjens.github.io/en/tags/"
                 />
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/en/tags/themes/</loc>
+    <loc>https://msjens.github.io/en/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/en/categories/themes/</loc>
+    <loc>https://msjens.github.io/en/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/en/tags/privacy/</loc>
+    <loc>https://msjens.github.io/en/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/en/div/rich-content/</loc>
+    <loc>https://msjens.github.io/en/div/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/en/tags/shortcodes/</loc>
+    <loc>https://msjens.github.io/en/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
 </urlset>

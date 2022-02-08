@@ -2,65 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/anim/</loc>
+    <loc>https://msjens.github.io/anim/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-future-imperfect-slim.netlify.app/en/anim/"
+                href="https://msjens.github.io/en/anim/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://hugo-future-imperfect-slim.netlify.app/anim/"
+                href="https://msjens.github.io/anim/"
                 />
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/trips/2006-01-20_australia/</loc>
+    <loc>https://msjens.github.io/trips/2006-01-20_australia/</loc>
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/categories/</loc>
+    <loc>https://msjens.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-future-imperfect-slim.netlify.app/en/categories/"
+                href="https://msjens.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://hugo-future-imperfect-slim.netlify.app/categories/"
+                href="https://msjens.github.io/categories/"
                 />
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/contact/</loc>
+    <loc>https://msjens.github.io/contact/</loc>
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/trips/2015-06-09_galapagos/</loc>
+    <loc>https://msjens.github.io/trips/2015-06-09_galapagos/</loc>
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/gallery/</loc>
+    <loc>https://msjens.github.io/gallery/</loc>
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/</loc>
+    <loc>https://msjens.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-future-imperfect-slim.netlify.app/en/"
+                href="https://msjens.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://hugo-future-imperfect-slim.netlify.app/"
+                href="https://msjens.github.io/"
                 />
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/trips/2012-09-19_kilimanjaro/</loc>
+    <loc>https://msjens.github.io/trips/2012-09-19_kilimanjaro/</loc>
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/tags/</loc>
+    <loc>https://msjens.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-future-imperfect-slim.netlify.app/en/tags/"
+                href="https://msjens.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://hugo-future-imperfect-slim.netlify.app/tags/"
+                href="https://msjens.github.io/tags/"
                 />
   </url><url>
-    <loc>https://hugo-future-imperfect-slim.netlify.app/trips/</loc>
+    <loc>https://msjens.github.io/trips/</loc>
   </url>
 </urlset>
