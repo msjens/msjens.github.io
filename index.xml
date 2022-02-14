@@ -7,12 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language><atom:link href="https://msjens.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Eirilvideoer</title>
+      <link>https://msjens.github.io/eiril/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://msjens.github.io/eiril/</guid>
+      <description>Eiril blir født    Eiril 2020    Eiril bygger tårn    Eiril krabber    Eiril i høstløvet   </description>
+    </item>
+    
+    <item>
       <title>Animasjoner</title>
       <link>https://msjens.github.io/anim/</link>
       <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://msjens.github.io/anim/</guid>
-      <description>Animasjonsside</description>
+      <description>Animasjonsside
+var anim = bodymovin.loadAnimation({container: document.getElementById(&#39;bm&#39;),renderer: &#39;svg&#39;,loop: true ,autoplay: true ,path: &#39;/anim/meny-ad.json&#39;}) </description>
     </item>
     
     <item>
@@ -39,7 +49,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://msjens.github.io/trips/2015-06-09_galapagos/</guid>
-      <description></description>
+      <description>                              </description>
     </item>
     
     <item>
@@ -57,7 +67,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://msjens.github.io/trips/2012-09-19_kilimanjaro/</guid>
-      <description></description>
+      <description>sds                              </description>
     </item>
     
   </channel>

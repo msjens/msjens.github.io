@@ -1,8 +1,14 @@
 [{
+    "title": "Eirilvideoer",
+    "date": "",
+    "description": "",
+    "body": "Eiril blir født    Eiril 2020    Eiril bygger tårn    Eiril krabber    Eiril i høstløvet   ",
+    "ref": "/eiril/"
+  },{
     "title": "Animasjoner",
     "date": "",
     "description": "Mange animasjoner",
-    "body": "Animasjonsside\n",
+    "body": "Animasjonsside\n\r\r\rvar anim = bodymovin.loadAnimation({\rcontainer: document.getElementById('bm'),\rrenderer: 'svg',\rloop: true ,\rautoplay: true ,\rpath: '/anim/meny-ad.json'\r})\r ",
     "ref": "/anim/"
   },{
     "title": "Australia 2006",
@@ -20,7 +26,7 @@
     "title": "Galapagos og Machu Piccu 2015",
     "date": "",
     "description": "",
-    "body": "\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r",
+    "body": "                              ",
     "ref": "/trips/2015-06-09_galapagos/"
   },{
     "title": "Galleri",
@@ -32,6 +38,6 @@
     "title": "Kilimanjaro 2012",
     "date": "",
     "description": "",
-    "body": "\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r",
+    "body": "sds                              ",
     "ref": "/trips/2012-09-19_kilimanjaro/"
   }]

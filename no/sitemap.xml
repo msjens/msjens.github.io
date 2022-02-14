@@ -2,18 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://msjens.github.io/eiril/</loc>
+    <lastmod>2022-02-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://msjens.github.io/anim/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://msjens.github.io/en/anim/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://msjens.github.io/anim/"
-                />
   </url><url>
     <loc>https://msjens.github.io/trips/2006-01-20_australia/</loc>
   </url><url>
