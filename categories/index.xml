@@ -1,10 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Hugo Future Imperfect Slim</title>
-    <link>https://msjens.github.io/categories/</link>
-    <description>Recent content in Categories on Hugo Future Imperfect Slim</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>no</language><atom:link href="https://msjens.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <title>Categories on msjensen</title>
+    <link>https://mjens.github.io/categories/</link>
+    <description>Recent content in Categories on msjensen</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>nb_NO</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    
+	    <atom:link href="https://mjens.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>
