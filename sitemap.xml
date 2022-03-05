@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mjens.github.io/eiril/</loc>
+    <loc>/eiril/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mjens.github.io/eiril/eirilvideoer/</loc>
+    <loc>/eiril/eirilvideoer/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mjens.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mjens.github.io/authors/admin/</loc>
+    <loc>/authors/admin/</loc>
   </url><url>
-    <loc>https://mjens.github.io/authors/</loc>
+    <loc>/authors/</loc>
   </url><url>
-    <loc>https://mjens.github.io/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://mjens.github.io/turer/2012-09-19_kilimanjaro/</loc>
+    <loc>/turer/2012-09-19_kilimanjaro/</loc>
   </url><url>
-    <loc>https://mjens.github.io/eiril/pappablogg/</loc>
+    <loc>/eiril/pappablogg/</loc>
   </url><url>
-    <loc>https://mjens.github.io/publication_types/</loc>
+    <loc>/publication_types/</loc>
   </url><url>
-    <loc>https://mjens.github.io/tags/</loc>
+    <loc>/tags/</loc>
   </url><url>
-    <loc>https://mjens.github.io/turer/</loc>
+    <loc>/turer/</loc>
   </url>
 </urlset>
